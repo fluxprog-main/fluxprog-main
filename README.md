@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Azizbek Dulobov and I'm a Junior Frontend Developer</h2>
+<h1 align="center">Hi 👋! My name is Azizbek Dulobov and I'm a Junior Frontend Developer</h1>
 
 ###
 
